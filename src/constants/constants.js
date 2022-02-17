@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 1, text: 'Schedule a Consultation', },
-  { year: 2, text: 'Receive our service quote', },
-  { year: 3, text: 'Connect with a Crypto-Tax experts', },
+  { year: 1, text: 'Schedule a consultation and discuss the scope of our service', },
+  { year: 2, text: 'We quote our service based on the reporting complexity', },
+  { year: 3, text: 'Join us and connect with a team of Crypto Tax professionals', },
   { year: 4, text: 'Upload your documents to an encrypted and secure portal', },
-  { year: 5, text: 'We do your taxes for you. After you review everything we e-file your return', },
+  { year: 5, text: 'We do your taxes for you and then file the return electronically', },
 ];
