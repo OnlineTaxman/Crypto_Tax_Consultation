@@ -19,8 +19,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>We Specialize in Crypto Taxation</ListTitle>
           <ListParagraph>
-            We have helped thousands of  taxpayers to stay in tax compliance with crypto <br />
-            while optimizing their tax situation.
+            We have helped thousands of  taxpayers to stay in tax compliance with crypto while optimizing their tax situation. 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,8 +29,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Crypto Tax Compliance</ListTitle>
           <ListParagraph>
-            We can help you navigate US tax requirements  <br />
-            and file all necessary forms. 
+            We can help you navigate US tax requirements and file all necessary forms. 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,8 +39,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Foreign Assets Reporting</ListTitle>
           <ListParagraph>
-            Foreign exchanges have to be reported if they reach certain thresholds <br />
-            Failure to do so can result in severe fines.
+            Foreign exchanges have to be reported if they reach certain thresholds. Failure to do so can result in severe fines.
           </ListParagraph>
         </ListContainer>
       </ListItem>
